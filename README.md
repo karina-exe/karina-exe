@@ -1,16 +1,31 @@
-## Hi there 👋
+ <img src="https://64.media.tumblr.com/e6979ad0bd6af32f2c493f867426d4a4/20ab6be0c854d1f8-d7/s400x600/cb6bb966b0d6ce1dc30f81d808bf3eefd1fc33ae.pnj" alt="Banner" width="35%">
 
-<!--
-**karina-exe/karina-exe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Bem-vindo(a)! ฅ₍^˵◝ ⩊ ◜˵マⳊ
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⊹ ࣪ ˖Estudante de Desenvolvimento de Sistemas
+- ⊹ ࣪ ˖Aprendendo Python
+- ⊹ ࣪ ˖Designer Gráfico
+- ⊹ ࣪ ˖Criatividade, Solução de Problemas e Pensamento Lógico
+- ⊹ ࣪ ˖Próximas Linguagens: HTML/CSS & Javascript
+
+<div style="display: inline_block"><br>
+  
+  <img align="center" alt="karina-exe" height="30" width="40" src="https://devicon-website.vercel.app/api/python/plain.svg?color=%23000000">
+  <img align="center" alt="karina-exe" height="30" width="40" src="https://devicon-website.vercel.app/api/javascript/plain.svg?color=%23000000">
+  <img align="center" alt="karina-exe" height="30" width="40" src="https://devicon-website.vercel.app/api/html5/plain.svg?color=%23000000">
+  <img align="center" alt="karina-exe" height="30" width="40" src="https://devicon-website.vercel.app/api/css3/plain.svg?color=%23000000">
+  <img align="center" alt="karina-exe" height="30" width="40" src="https://devicon-website.vercel.app/api/photoshop/plain.svg?color=%23000000">
+  <img align="center" alt="karina-exe" height="30" width="40" src="https://devicon-website.vercel.app/api/premierepro/plain.svg?color=%23000000">
+
+
+</div>
+  
+  ##
+ 
+<div> 
+  <a href = "mailto:karinaapbarreto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-101010?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:karina.dev@proton.me"><img src="https://img.shields.io/badge/-ProtonMail-101010?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/karina-a-6a9871289/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-101010?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
