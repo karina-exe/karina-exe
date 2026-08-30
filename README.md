@@ -29,7 +29,7 @@
   <a href = "mailto:karinaapbarreto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-101010?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href = "mailto:karina.dev@proton.me"><img src="https://img.shields.io/badge/-ProtonMail-101010?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/karina-a-6a9871289/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-101010?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+  <a href = "https://github.com/karina-exe"><img src="https://img.shields.io/badge/コンピューターウェブサイト-101010?style=for-the-badge&logo=carrd&logoColor=white" target="_blank"></a>  
 </div>
 <div>
  <img height="134em" src="https://github-stats-extended.vercel.app/api?username=karina-exe&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=101010"/>
