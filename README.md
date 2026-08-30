@@ -18,6 +18,7 @@
   <img align="center" alt="karina-exe" height="30" width="40" src="https://devicon-website.vercel.app/api/css3/plain.svg?color=%23000000">
   <img align="center" alt="karina-exe" height="30" width="40" src="https://devicon-website.vercel.app/api/photoshop/plain.svg?color=%23000000">
   <img align="center" alt="karina-exe" height="30" width="40" src="https://devicon-website.vercel.app/api/premierepro/plain.svg?color=%23000000">
+  <img align="center" alt="karina-exe" height="30" width="40" src="https://64.media.tumblr.com/88ea19055acc694549bbac4f4dbee11e/636c9dc76f2d4cdc-14/s100x200/26fc45c687ab133cb27eaebfe1d162924a02c9b2.pnj">
 
 
 </div>
