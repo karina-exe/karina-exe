@@ -32,5 +32,6 @@
 </div>
 <div>
  <img height="134em" src="https://github-stats-extended.vercel.app/api?username=karina-exe&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=101010"/>
- <img height="134em" src="https://github.com/stats-organization/github-stats-extended"/>
+ 
+ <img height="134em" src="https://github-stats-extended.vercel.app/api/top-langs?username=karina-exe&langs_count=4&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=101010"/>
 </div>
