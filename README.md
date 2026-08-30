@@ -37,4 +37,4 @@
  <img height="134em" src="https://github-stats-extended.vercel.app/api/top-langs?username=karina-exe&langs_count=3&show_icons=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=101010"/>
 </div>
 
-![snake animation](https://github.com/<karina-exe>/<karina-exe>/blob/output/github-contribution-grid-snake2.svg)
+
